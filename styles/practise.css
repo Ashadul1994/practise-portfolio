@@ -154,6 +154,20 @@ nav li{
 .contact{
     text-decoration: none;
 }
+/* side by side image and pragraph */
+.love{
+    float: left;
+}
+.romantic{
+    font-weight: 700;
+    font-size: 60px;
+}
+.lili{
+    text-align: center;
+}
+.love{
+    margin-top: 20px;
+}
    
 
 
